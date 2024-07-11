@@ -41609,7 +41609,3 @@ hash = "bace8079cb2b3209ea17d785bdd7bda0d34ac45ceb5fbfef18d4d61deb39b7c0"
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r2.3.zip.txt"
 hash = "c1517ef1419b34d05ae9424e9c98e95a3ccf38dc71d1fa06f0de9c05a7c8adf4"
-
-[[files]]
-file = "update-hash.sh"
-hash = "ad049f680e2802cf9ae28aeedff875bc0c23b2f6a23391b265908d0a6d1ebcc0"
