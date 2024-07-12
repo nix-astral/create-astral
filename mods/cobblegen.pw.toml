@@ -1,13 +1,13 @@
-name = "CobbleGen"
-filename = "cobblegen-v2.1b57-BETA.jar"
+name = "CobbleGen [Fabric/Forge]"
+filename = "cobblegen-5.3.9+1.18.2b45-BETA-fabric.jar"
 side = "both"
 
 [download]
-mode = "metadata:curseforge"
 hash-format = "sha1"
-hash = "b2b57dafb4e25db3256d87fddc44ee97740e3efb"
+hash = "a96e3f01c6a644c88dc1f5283513eacb36eccbeb"
+mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4022659
+file-id = 5453450
 project-id = 581293
