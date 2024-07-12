@@ -17310,7 +17310,7 @@ hash = "72a156e230e243476085f53a89b2d8d9dbeb91bbb88405ba498bbc799503daaf"
 
 [[files]]
 file = "kubejs/server_scripts/removals.js"
-hash = "17c00a5d348bd22582c97af0ab0bfd54a557da7d7ac84f00c40feb40a8b72aa7"
+hash = "cc9cf9e8b478fb928dda2e0a66d0941dbd638fedfcac173266f97995aa387092"
 
 [[files]]
 file = "kubejs/server_scripts/replacements.js"
@@ -17318,7 +17318,7 @@ hash = "bb94922646d6ecca8a6a2a62ebf722bb51fa4308ca7faec28b5cef7e1047b912"
 
 [[files]]
 file = "kubejs/server_scripts/server.js"
-hash = "b210e883c72d07c99a9297e974bd6ea33332c28364b5b8baeace2c212aa0a5ff"
+hash = "4949a57176c319b3f3a061144584a259b191abf8b6722ae3f26610b157f4bf7a"
 
 [[files]]
 file = "kubejs/server_scripts/tconstruct.js"
@@ -17334,7 +17334,7 @@ hash = "f0b300c22a9720f77bb9bd3cace61a83312efb85b8f25cbfb0bd3a5f402962f1"
 
 [[files]]
 file = "kubejs/startup_scripts/startup.js"
-hash = "f193b72e6180b5f2d8626afd17e2e75e45c92680a34dc893ea5ffcf40b62397e"
+hash = "0d7fe33ee5e938c3a4e2698b919c10c0e017dea7ce4f80ac9b4e9037f3f334fd"
 
 [[files]]
 file = "mods/ad-astra.pw.toml"

@@ -397,10 +397,10 @@ onEvent("recipes", (event) => {
         // AE2
 
         { output: "ae2:fluix_dust" },
-        { output: "ae2:pattern_provider" },
-        { output: "ae2:blank_pattern" },
-        { output: "ae2:pattern_encoding_terminal" },
-        { output: "ae2:cable_pattern_provider" },
+        // { output: "ae2:pattern_provider" },
+        // { output: "ae2:blank_pattern" },
+        // { output: "ae2:pattern_encoding_terminal" },
+        // { output: "ae2:cable_pattern_provider" },
         { output: "ae2:inscriber" },
         { output: "ae2:controller", type: "crafting_shaped" },
 
